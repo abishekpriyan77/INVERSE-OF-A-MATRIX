@@ -17,6 +17,7 @@ a=np.array([[6,2,3],[3,1,1],[10,3,4]])
 b=np.linalg.inv(a)
 print(b)
 ```
+
 ## Output:
 ![Screenshot (154)](https://github.com/user-attachments/assets/24f43518-d877-4f70-8bb4-9dfc11fb7934)
 
